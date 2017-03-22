@@ -65,7 +65,7 @@ public class SMTPAuthSuccessfulTest {
     @Test
     public void matchShouldNotReturnRecipientsWhenAuthUserAttributeIsAbsent() throws Exception{
         /*
-        Question 2
+        Question 2qq
 
         Create a mail with only a recipient
 
